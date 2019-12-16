@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noiraimer.github.io/</id>
     <title>解语知音</title>
-    <updated>2019-12-16T04:16:15.154Z</updated>
+    <updated>2019-12-16T04:41:33.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://noiraimer.github.io/"/>
     <link rel="self" href="https://noiraimer.github.io//atom.xml"/>
@@ -67,7 +67,7 @@
 <ol>
 <li>合理性。<em>合乎情理或法理</em></li>
 <li>操作性。<em>人员/技术/资金</em></li>
-<li>可行性。*政策执行有危害，得不偿失等。结果无法实现。</li>
+<li>可行性。<em>政策执行有危害，得不偿失等。结果无法实现。</em></li>
 </ol>
 </li>
 <li>结果：能否解决本质问题。<em><strong>是否和政策初衷相符合或相违背？</strong></em>
