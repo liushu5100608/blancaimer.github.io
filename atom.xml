@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noiraimer.github.io/</id>
     <title>解语知音</title>
-    <updated>2019-12-24T14:41:15.093Z</updated>
+    <updated>2019-12-24T15:15:45.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://noiraimer.github.io/"/>
     <link rel="self" href="https://noiraimer.github.io//atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://noiraimer.github.io//images/avatar.png</logo>
     <icon>https://noiraimer.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 解语知音</rights>
+    <entry>
+        <title type="html"><![CDATA[🏆加油并坚持]]></title>
+        <id>https://noiraimer.github.io//post/jia-you-bing-jian-chi</id>
+        <link href="https://noiraimer.github.io//post/jia-you-bing-jian-chi">
+        </link>
+        <updated>2019-12-24T15:01:44.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="我们遇到什么困难"><strong>☔我们遇到什么困难</strong></h2>
+<h2 id="也不要怕"><strong>🤗也不要怕！</strong></h2>
+<h2 id="微笑着面对他"><strong>🤪微笑着面对他！</strong></h2>
+<h2 id="消除恐惧的最好办法就是面对恐惧"><strong>👊消除恐惧的最好办法就是面对恐惧</strong></h2>
+<h2 id="坚持才是胜利"><strong>💪坚持才是胜利！</strong></h2>
+<h2 id="加油奥利给"><strong>🤜加油！奥利给！</strong></h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🤪自我认知]]></title>
         <id>https://noiraimer.github.io//post/zi-wo-ren-zhi-yu-zhi-wei-pi-pei</id>
