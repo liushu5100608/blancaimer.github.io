@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noiraimer.github.io/</id>
     <title>解语知音</title>
-    <updated>2019-12-25T02:19:55.448Z</updated>
+    <updated>2019-12-25T02:43:28.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://noiraimer.github.io/"/>
     <link rel="self" href="https://noiraimer.github.io//atom.xml"/>
@@ -10,6 +10,82 @@
     <logo>https://noiraimer.github.io//images/avatar.png</logo>
     <icon>https://noiraimer.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 解语知音</rights>
+    <entry>
+        <title type="html"><![CDATA[👀态度观点]]></title>
+        <id>https://noiraimer.github.io//post/tai-du-guan-dian</id>
+        <link href="https://noiraimer.github.io//post/tai-du-guan-dian">
+        </link>
+        <updated>2019-12-25T02:29:40.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="1提观点">①提观点</h2>
+<ul>
+<li>
+<p>直接式：解读思想——&gt;——重申意义。</p>
+</li>
+<li>
+<p>引用式：引用名言警句，身边事例，寓言故事。</p>
+</li>
+<li>
+<p>联想式：联想自己和身边事。</p>
+</li>
+</ul>
+<hr>
+<h2 id="2重分析">②重分析</h2>
+<blockquote>
+<p>&lt;展开讲道理时注意举例&gt;</p>
+</blockquote>
+<ul>
+<li>分主体论证：
+<ul>
+<li>微观——个人</li>
+<li>中观——企业</li>
+<li>宏观——国家</li>
+</ul>
+</li>
+<li>正反对比论证：
+<ul>
+<li>方式：
+<ul>
+<li>正：意义</li>
+<li>反：危害</li>
+</ul>
+</li>
+<li>角度：
+<ul>
+<li>微观——个人</li>
+<li>中观——企业</li>
+<li>宏观——国家</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="3抓落实">③抓落实</h2>
+<blockquote>
+<p>分主体提对策</p>
+</blockquote>
+<ul>
+<li>微观——个人</li>
+<li>中观——企业</li>
+<li>宏观——国家</li>
+</ul>
+<blockquote>
+<ol>
+<li>对策主要为解决“重分析”中的问题，或加深好的意义的积极做法。</li>
+<li>如果三方面不太好想对策，可以只谈自己如何做，注意此时要把自己设想为政府工作人员。</li>
+</ol>
+</blockquote>
+<hr>
+<h2 id="4做结尾">④做结尾</h2>
+<ul>
+<li>概括式</li>
+<li>展望式</li>
+</ul>
+<blockquote>
+<p>非必须，可融入“抓落实”中，稍加带过。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🥇加油并坚持]]></title>
         <id>https://noiraimer.github.io//post/jia-you-bing-jian-chi</id>
